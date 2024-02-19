@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    width: 1360px;
+    height: 4000px;
+}
+
+.nav-container {
+    width: 1360px;
+    height: 165px;
+}
+
+.image1 {
+    margin: 80px 0px -22px 125px;
+    width: 134px;
+    height: 63px;
+}
+
+.nav-link {
+    width: 578px;
+    padding-top: 0px;
+    /* padding-left: 448px; */
+    display: flex;
+    font-size: small;
+    font-family: sans-serif;
+    justify-content: space-around;
+    align-items: center;
+    margin: -21px 0px 0px 610px;
+}
+
+.image2 {
+    width: 1360px;
+    height: 700px;
+}
+
+.THEJOYOFHOMEOWNING {
+    width: 0px;
+    height: 0px;
+   margin: 0px 0px 0px 0px;
+}
+
